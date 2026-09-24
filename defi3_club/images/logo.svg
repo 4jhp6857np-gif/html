@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="70" viewBox="0 0 220 70">
-  <rect width="220" height="70" fill="#1D4E89"/>
-  <polygon points="20,52 40,20 60,52" fill="#F5C400"/>
-  <polygon points="50,52 66,28 82,52" fill="#FFFFFF" opacity="0.85"/>
-  <text x="95" y="34" font-family="Verdana" font-size="15" fill="#FFFFFF">Club du</text>
-  <text x="95" y="54" font-family="Verdana" font-size="15" fill="#F5C400">Salève</text>
-</svg>
